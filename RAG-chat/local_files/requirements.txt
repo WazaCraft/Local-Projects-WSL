@@ -1,0 +1,6 @@
+markdown
+flask
+openai
+uvicorn
+fastapi
+scikit
