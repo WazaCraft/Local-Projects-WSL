@@ -1,0 +1,109 @@
+
+1
+Johnathan Greenaway 
+Platform Product Manager | AI Solutions Architect 
+johnathangreenaway@gmail.com  
+352.871.0975 
+Relevant Experience 
+03/2022 – Present Product Manager  
+StackCommerce – Venice, CA 
+- Product Manager for the Platform Engineering team and our in-house “Feature Factory”. 
+- Scoped and prioritized business needs as Product requirements and Engineering tasks. 
+- Facilitated cross-functional collaboration across all departments to define quarterly and 
+annual Engineering roadmaps. 
+- Lead migration to a new fraud protection platform, serving as PM after previously owning the 
+project as the primary business stakeholder.  
+- Tasked with wireframing and prototyping spec projects for pitches to key partners.  
+- Addressed business needs that exceeded the engineering team’s annual bandwidth: 
+o Implemented low-code solutions like transitioning manual CS processes from 
+Google sheets to an automation-driven, custom CRM. 
+o Became the local subject-matter expert on AI and Machine Learning, leveraging 
+Python to architect solutions to manual operational processes like email design.  
+o Developed an LLM-driven data parsing tool to address our executive team’s interest 
+in AI-enabled deal sourcing.  
+o This tool is now used to populate affiliate product recommendations sent to 2M 
+users, twice weekly since 08/2023. Averaging ~5%-10% more conversions than 
+human counterparts and “hundreds of hours saved”. 
+o Later refactored the tool as an async API to minimize run times, maximize 
+functionality and facilitate future integration into our codebase. 
+▪ Continuously maintained and expanded the tool’s architecture to employ 
+advancements in the AI space including agentic querying, retrieval 
+augmented generation and support for multiple LLM providers. 
+o Prototyped a chatbot that accurately answers user queries using retrieval-
+augmented-generation. 
+o Thoroughly documented all research for distribution to internal stakeholders. 
+- Leader of the AI Subcommittee 
+01/2021 – 03/2022 Associate Director of Customer Experience 
+StackCommerce – Venice, CA  
+- Directed the CS and Ops teams to exceed core KPI goals like CSAT and average delivery time 
+- Aligned business and tech stakeholders to deliver high-impact initiatives and projects: 
+- Negotiated pricing discounts for multiple 6-figure contract renewals with key providers. 
+o Secured ~$180K in annualized savings and over $100K in annual cash 
+reimbursements by switching to the above-mentioned fraud prevention provider. 
+- Implemented an AI answer service, automating the resolution of ~20% of inbound contacts. 
+- Overhauled all customer experience processes including internal and external 
+documentation and team structure to adequately address edge cases, resulting in increased 
+satisfaction rates and user retention. 
+01/2018 – 01/2021 Director of Support Systems and Communications 
+Vezt Inc, Los Angeles, CA  
+- Designed and scaled the user support infrastructure from the ground up using off the shelf 
+services, reducing first contact time by over 67%. 
+- Triaged, logged and coordinated response to reported bugs with our CTO and Tech Lead.  
+- Authored customer-facing documentation and internal employee reference materials. 
+07/2016 – 10/2017 Client Success Manager  - Digital Events  
+Surkus Inc – Los Angeles, CA  
+- Served as a technical account manager for all digital campaigns and account activations. 
+- Communicated product impact and capabilities to new clients. 
+- Directed the triage and documentation of all user facing bugs and errors. 
+- Headed partner campaigns in the advertising, media and medical verticals, driving $150K/yr. 
+08/2015 – 10/2017 Head of Community 
+Surkus Inc – Los Angeles, CA  
+- Directed the user experience strategy and scaled the department to support 500k users.  
+- Managed local and offshore teams across two departments to provide 24/7 support. 
+- Responsible for all user-facing documentation and outbound communications. 
+01/2015 – 10/2015 Business Development Specialist  
+TuneRise/Screencraft – Beverly Hills, CA  
+- Executed social media and content strategies across all digital platforms for the TuneRise 
+product launch.  
+- Provided creative guidance to co-founders to align business with its target markets.  
+- Performed market analyses to inform financial models and overall business strategy.  
+07/2014 – 01/2015  Department Assistant 
+Viacom/MTV Networks – Santa Monica, CA  
+- Supported music supervision, synchronization, and licensing projects.  
+- Maintained soundtrack.mtv.com  
+- Lead communication with corporate partners and screened talent for music licensing 
+06/2013 – 07/2014 Brand Intelligence Manager 
+ZEFR inc, Venice, CA  
+- One of four employees selected to build the department from the ground up. 
+- Performed research and market analysis to provide actionable insights to major brand clients 
+including Microsoft, Google, Adidas, and Samsung.   
+- Key achievement: Tasked with performing all research, calculation, and deck design on a 
+report that was commissioned by YouTube's CEO as a gift to give to the CEO of Google. 
+10/2012 – 06/2013 Content Curator   
+ZEFR, Inc, Venice, CA  
+- Identified and monetized intellectual property for entertainment partners.  
+06/2012 – 12/2012 Department Intern  
+Viacom, Santa Monica, CA 
+- Supported MTV's Creative Music Integration departments while learning the structure of a 
+corporate music licensing and sync department. 
+08/2008 – 6/2012 BFA: Motion Picture and Recording Arts  
+Florida State University - Tallahassee, FL  
+ 
+Relevant Skills:  
+Certified Skilled Experienced and Studying 
+Product Management (UC 
+Berkley 2022) 
+Agile, Waterfall, and RICE 
+Methodologies 
+Python 
+AI and ML Product Management 
+(Duke 2023) 
+Product Marketing, Product 
+Lifecycle Management and 
+Product Development 
+Data Structures 
+Systems Design Fundamentals Documentation and 
+Copywriting 
+Bash / Linux System 
+Administration 
+ 
